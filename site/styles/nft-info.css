@@ -1,0 +1,17 @@
+.nft-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.price::before {
+  content: url(/images/icon-ethereum.svg);
+}
+
+.time-left::before {
+  content: url(/images/icon-clock.svg);
+}
+
+
+.price {
+  color: hsl(178, 100%, 50%);
+}

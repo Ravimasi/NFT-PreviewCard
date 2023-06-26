@@ -1,0 +1,22 @@
+.before-alignment::before {
+  margin-right: 5px;
+  position: relative;
+  top: 3px;
+}
+
+.image-area img {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.NFT-description p,
+.time-left,
+.NFT-creator h2 {
+  color: hsl(215, 51%, 70%);
+}
+
+#line {
+  margin: 15px 0px;
+  color: hsl(215, 32%, 27%);
+}

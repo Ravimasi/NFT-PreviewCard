@@ -1,0 +1,22 @@
+.NFT-creator {
+  display: flex;
+  align-items: center;
+}
+
+.NFT-creator img {
+  max-width: 35px;
+  max-height: 35px;
+  object-fit: cover;
+  border: 1px solid white;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.NFT-creator h2 {
+  margin: 0px 0px unset 0px;
+  font-size: 1rem;
+}
+
+.NFT-creator a {
+  color: hsl(0, 0%, 100%);
+}

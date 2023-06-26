@@ -1,0 +1,23 @@
+@import '/site/styles/card.css';
+@import '/site/styles/components.css';
+@import '/site/styles/nft-creator.css';
+@import '/site/styles/nft-info.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  background-color: hsl(216, 55%, 11%);
+  font-family: 'Outfit';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  color: hsl(0, 0%, 100%);
+}
+
+a {
+  text-decoration: none;
+}
