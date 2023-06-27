@@ -10,12 +10,6 @@ Os usuários devem ser capaz de :
 
 - Ver o layout mais ideal dependendo da tela do dispositivo.
 - Ver os efeitos de hover pra elementos interativos.
-- 
-
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 
 ## Créditos do desafio à:
 https://www.frontendmentor.io
