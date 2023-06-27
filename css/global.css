@@ -59,13 +59,13 @@ a {
   justify-content: space-between;
 }
 
-.price::before {
-  content: url(./images/icon-ethereum.svg);
+/* .price::before {
+  content: url(/images/icon-ethereum.svg);
 }
 
 .time-left::before {
-  content: url(./images/icon-clock.svg);
-}
+  content: url(/images/icon-clock.svg);
+} */
 
 
 .price {
@@ -96,10 +96,10 @@ a {
 }
 
 /* Components */
-.before-alignment::before {
+.alignment {
   margin-right: 5px;
   position: relative;
-  top: 3px;
+  top: 2px;
 }
 
 .image-area img.view {
