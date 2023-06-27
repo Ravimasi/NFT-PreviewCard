@@ -1,4 +1,4 @@
-.before-alignment::before {
+/* .before-alignment::before {
   margin-right: 5px;
   position: relative;
   top: 3px;
@@ -25,4 +25,4 @@
   color: hsl(178, 100%, 50%);
   transition: 300ms ease-in-out;
   cursor: pointer;
-}
+} */
