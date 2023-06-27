@@ -1,8 +1,3 @@
-@import '/card.css';
-@import '/components.css';
-@import '/nft-creator.css';
-@import '/nft-info.css';
-
 * {
   box-sizing: border-box;
 }
