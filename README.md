@@ -18,4 +18,4 @@ Os usuários devem ser capaz de :
 - [Netlify](https://www.netlify.com/)
 
 ## Créditos do desafio à:
-(https://www.frontendmentor.io)
+https://www.frontendmentor.io
