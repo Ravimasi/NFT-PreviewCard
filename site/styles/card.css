@@ -3,7 +3,32 @@
   background-color: hsl(216, 50%, 16%);
   max-width: 375px;
   padding: 20px;
-  box-shadow: 0px 35px 15px 20px hsl(217, 57%, 10%),
-    0px 30px 0px 40px hsl(216, 57%, 11%);
+  box-shadow: 0px 35px 10px 20px hsl(217, 57%, 10%),
+    0px 30px 0px 40px hsl(218, 57%, 11%);
+}
 
+.image-area:hover img.view {
+  opacity: .5;
+}
+
+.image-area {
+  position: relative;
+}
+
+.hover-view {
+  display: grid;
+  place-content: center;
+  top: 0px;
+  position: absolute;
+  opacity: 0;
+  transition: 400ms ease;
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.image-area:hover .hover-view {
+  opacity: 1;
+  background-color: hsla(178, 100%, 50%, 0.50);
+  cursor: pointer;
 }

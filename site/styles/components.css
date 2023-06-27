@@ -4,7 +4,7 @@
   top: 3px;
 }
 
-.image-area img {
+.image-area img.view {
   display: block;
   width: 100%;
   border-radius: 8px;
@@ -19,4 +19,10 @@
 #line {
   margin: 15px 0px;
   color: hsl(215, 32%, 27%);
+}
+
+.text-hover:hover {
+  color: hsl(178, 100%, 50%);
+  transition: 300ms ease-in-out;
+  cursor: pointer;
 }
