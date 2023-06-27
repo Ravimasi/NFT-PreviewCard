@@ -8,7 +8,7 @@ Criar esse componente em estilo de carta e fazer com que se pareça ao máximo c
 
 Os usuários devem ser capaz de :
 
-- Ver o layout mais ideal dependendo da tela do dispositivo.
+- Ver o layout ideal dependendo da tela do dispositivo.
 - Ver os efeitos de hover pra elementos interativos.
 
 ## Créditos do desafio à:
