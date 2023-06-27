@@ -4,11 +4,11 @@
 }
 
 .price::before {
-  content: url(/docs/images/icon-ethereum.svg);
+  content: url(/images/icon-ethereum.svg);
 }
 
 .time-left::before {
-  content: url(/docs/images/icon-clock.svg);
+  content: url(/images/icon-clock.svg);
 }
 
 
