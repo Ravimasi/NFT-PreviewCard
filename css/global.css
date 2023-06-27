@@ -56,12 +56,17 @@ a {
 /* NFT-Descrition/Price and days left */
 .nft-info {
   display: flex;
-  place-content: center space-between;
+  justify-content: space-between;
 }
 
-.nft-info>img {
-  align-content: center;
+.price::before {
+  content: url(./images/icon-ethereum.svg);
 }
+
+.time-left::before {
+  content: url(./images/icon-clock.svg);
+}
+
 
 .price {
   color: hsl(178, 100%, 50%);
